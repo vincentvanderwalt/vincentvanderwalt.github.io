@@ -1,7 +1,7 @@
 ---
 layout: post
-title: See How To Edit A Jekyll Blog Locally
-subtitle: How to edit your blog locally
+title: See how to edit A Jekyll blog locally
+subtitle: How to update your blog locally
 tags: [Jekyll,Blog,Github]
 ---
 

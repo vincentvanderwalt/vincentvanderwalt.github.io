@@ -4,13 +4,12 @@ title: About me
 subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Vincent van der Walt. I'm a technologist with a lifelong passion for learning. With over 2 decades under my belt I started my career living in a garden shed for 6 months so I could study computer programming. I've experienced the evolution of technology from Mainframe -> Client Server -> Internet / Web -> Cloud -> A.I / ML.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+What a fantastic ride so far. With at least another 2 decades left in the tank I can't wait to see what the future holds. What keeps me going can be described well by the 4 P's Patience, Persistance, Perseverance and Passion.
 
-What else do you need?
+I live in *sunny* ;-) Scotland with my super clan. Teaching my girls the joys of coding via Minecraft and Scratch programming is satisfying to say the least.
 
-### my history
+When I'm not tinkering with my raspberry pi, doing some online course or retrogaming, I mountain bike, fish (with or without the girls) and walk our golden retriever.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Finishing the day snuggling on the sofa with the lovely wife watching some tv series (still waiting for winter to come) is always satisfying.
