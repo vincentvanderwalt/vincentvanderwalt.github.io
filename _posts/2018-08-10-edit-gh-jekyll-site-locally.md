@@ -137,4 +137,40 @@ Bundle exec Jekyll serve
 
 ```
 
+You're blog will be available locally at http://localhost:4000
 
+Running ***Bundle exec Jekyll serve*** enables live tracking of changes to posts.
+
+Change any of your posts, save the file and the site at local host will have the changes after refreshing the page.
+
+## Deploy your site to github
+
+Once you're ready to deploy your site, open the command line at the root of your blog folder.
+
+Run the following command to add your new files
+
+```bash
+
+git add *
+
+```
+
+Now run this to commit your changes locally
+
+```bash
+
+git commit -m "{your_commit_comment_here}
+
+```
+
+Now push your changes to github
+
+```bash
+
+git push
+
+```
+
+You're changes should now be available online
+
+Congratulations !!!
