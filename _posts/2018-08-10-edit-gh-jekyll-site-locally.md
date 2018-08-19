@@ -137,7 +137,7 @@ Bundle exec Jekyll serve
 
 ```
 
-You're blog will be available locally at http://localhost:4000
+You're blog will be available locally at [http://localhost:4000](http://localhost:4000)
 
 Running ***Bundle exec Jekyll serve*** enables live tracking of changes to posts.
 
