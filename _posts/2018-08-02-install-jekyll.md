@@ -11,9 +11,9 @@ This guide can help you get up and running pretty quickly.
 
 # Setup your repository that'll host your blog source
 
-Navigate to [Github](http://github.com), Login and click **New Repository** 
+Navigate to [Github](http://github.com), Login and click **New Repository**
 
-![New Github repo button]({{ site.url }}/img/2018-08-02-install-jekyll/new_repo_button.png)
+![New Github repo button](/img/2018-08-02-install-jekyll/new_repo_button.png)
 
 On the New repository page, change the name to be your Github username **{github_name}/{github_name}.github.io**.
 
