@@ -19,7 +19,7 @@ On the New repository page, change the name to be your Github username **{github
 
 This is my repository example
 
-![New Github repo page]({{ /img/2018-08-02-install-jekyll/new_repo_page.PNG)
+![New Github repo page](/img/2018-08-02-install-jekyll/new_repo_page.PNG)
 
 Leave the rest of the options and click **Create Repository**
 
@@ -27,14 +27,14 @@ Next go the **Settings** option for the repository
 
 under the **GitHub Pages** heading click **Change Theme** option
 
-![Change Theme]({{ site.url }}/img/2018-08-02-install-jekyll/change_theme.png)
+![Change Theme](/img/2018-08-02-install-jekyll/change_theme.PNG)
 
 Try some of the themes and then click **Select Theme**
 
-![Theme Chooser]({{ site.url }}/img/2018-08-02-install-jekyll/theme_selection.png)
+![Theme Chooser](/img/2018-08-02-install-jekyll/theme_selection.PNG)
 
 Add a comment and then commit the changes
 
-![Commit Changes]({{ site.url }}/img/2018-08-02-install-jekyll/commit_changes.png)
+![Commit Changes](/img/2018-08-02-install-jekyll/commit_changes.PNG)
 
 Test by going to **http://{github_name}.github.io**
