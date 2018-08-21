@@ -37,27 +37,27 @@ Gem install Jekyll Bundler
 
 Navigate to [Github](http://github.com), Login and click on the **Search box**
 
-![github repository search box]({{ site.url }}/img/2018-08-10-local-edit/github_searchbox.png)
+![github repository search box](/img/2018-08-10-local-edit/github_searchbox.PNG)
 
 Type in your repository hosting your blog **{github_name}/{github_name}.github.io**.
 
 This is my repository example
 
-![github repository search box with repo name]({{ site.url }}/img/2018-08-10-local-edit/github_search_with_repo.png)
+![github repository search box with repo name](/img/2018-08-10-local-edit/github_search_with_repo.PNG)
 
 Now click on the actual repository to open it
 
 Next, click on the **Clone or download** button
 
-![github clone option]({{ site.url }}/img/2018-08-10-local-edit/github_clone_button.png)
+![github clone option](/img/2018-08-10-local-edit/github_clone_button.PNG)
 
 Click on the **Copy** option to copy the url of the repository
 
-![github clone url]({{ site.url }}/img/2018-08-10-local-edit/github_clone_option.png)
+![github clone url](/img/2018-08-10-local-edit/github_clone_option.PNG)
 
 On your local drive create a folder to copy your site into
 
-![local blog parent folder]({{ site.url }}/img/2018-08-10-local-edit/local_blog_parent_folder.png)
+![local blog parent folder](/img/2018-08-10-local-edit/local_blog_parent_folder.PNG)
 
 Open Command Prompt and type
 
@@ -68,11 +68,11 @@ git clone {Your_Repository_URL}
 
 Here's mine
 
-![git clone example]({{ site.url }}/img/2018-08-10-local-edit/git_clone_example.png)
+![git clone example](/img/2018-08-10-local-edit/git_clone_example.PNG)
 
 You should now see a folder with your github blog name
 
-![local folder structure]({{ site.url }}/img/2018-08-10-local-edit/local_folder_structure.png)
+![local folder structure](/img/2018-08-10-local-edit/local_folder_structure.PNG)
 
 ## Adding a new post
 
@@ -84,7 +84,7 @@ Images used in the blog posts should be placed in the **img** folder.
 
 I tend to put blog post associated images in it's own folder for structure.
 
-![local img structure]({{ site.url }}/img/2018-08-10-local-edit/local_img_structure.png)
+![local img structure](/img/2018-08-10-local-edit/local_img_structure.PNG)
 
 To add a new post, open the **_posts** folder and add a new markup file with the following format **yyyy-mm-dd-{post_title}.md**
 
