@@ -37,4 +37,4 @@ Add a comment and then commit the changes
 
 ![Commit Changes](/img/2018-08-02-install-jekyll/commit_changes.PNG)
 
-Test by going to **http://{github_name}.github.io**
+Test by going to **<http://{github_name}.github.io>**
